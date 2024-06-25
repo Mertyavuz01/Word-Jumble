@@ -7,8 +7,11 @@ Description
 Features
 
 Interactive Gameplay: Users can drag and drop letters to form words.
+
 Real-Time Feedback: Immediate validation of the formed word, notifying if it is correct or not.
+
 User-Friendly Interface: A clean and intuitive design that enhances the gaming experience.
+
 Responsive Design: Optimized for various screen sizes, ensuring accessibility on both desktop and mobile devices.
 
 How to Play
